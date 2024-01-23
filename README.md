@@ -1,6 +1,6 @@
 # Done
 
-# Note: "First install all the dependencies in your PC"
+### Note: "First install all the dependencies in your PC"
 
 --Make  sure to add a file named .env in ./server/.env and add the following in it :
 
